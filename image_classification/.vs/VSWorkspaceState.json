@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\models",
+    "\\static",
+    "\\static\\css",
+    "\\static\\js",
+    "\\templates",
+    "\\uploads"
+  ],
+  "SelectedNode": "\\models\\model_resnet.h5",
+  "PreviewInSolutionExplorer": false
+}

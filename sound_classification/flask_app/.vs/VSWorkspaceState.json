@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\audio_files",
+    "\\config_files",
+    "\\feature_extraction",
+    "\\feature_extraction\\__pycache__",
+    "\\models",
+    "\\static",
+    "\\static\\styles",
+    "\\templates"
+  ],
+  "SelectedNode": "\\feature_extraction\\__init__.py",
+  "PreviewInSolutionExplorer": false
+}
